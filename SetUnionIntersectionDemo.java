@@ -12,6 +12,7 @@ class SetUnionIntersectionDemo {  // Step 3: Class name that reflects the progra
         set.add(40);
         set.add(50);
         set.add(60);
+      
 
         // Step 5: Create second HashSet and add integers
         HashSet<Integer> set2 = new HashSet<>();
